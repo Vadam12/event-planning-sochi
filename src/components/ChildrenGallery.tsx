@@ -6,36 +6,42 @@ const ChildrenGallery = () => {
   const images = [
     {
       id: 1,
+      src: "https://cdn.poehali.dev/files/1451ed0d-1449-4ac0-84ff-6868fc81ceb0.jpg",
+      alt: "Праздничное веселье с шариками и конфетти",
+      title: "Взрыв эмоций и радости",
+    },
+    {
+      id: 2,
       src: "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=500&h=400&fit=crop",
       alt: "Дети с разноцветными шариками",
       title: "Радость без границ",
     },
     {
-      id: 2,
+      id: 3,
       src: "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=500&h=400&fit=crop",
       alt: "Счастливая девочка с шариками",
       title: "Волшебные моменты",
     },
     {
-      id: 3,
+      id: 4,
       src: "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?w=500&h=400&fit=crop",
       alt: "Дети играют с шариками",
       title: "Игры и веселье",
     },
     {
-      id: 4,
+      id: 5,
       src: "https://images.unsplash.com/photo-1607048034494-c6e13e6e8ff4?w=500&h=400&fit=crop",
       alt: "Праздничные шарики",
       title: "Яркие краски детства",
     },
     {
-      id: 5,
+      id: 6,
       src: "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=500&h=400&fit=crop",
       alt: "Дети с воздушными шарами",
       title: "Незабываемые эмоции",
     },
     {
-      id: 6,
+      id: 7,
       src: "https://images.unsplash.com/photo-1607048034494-c6e13e6e8ff4?w=500&h=400&fit=crop",
       alt: "Праздник детства",
       title: "Сказочные приключения",

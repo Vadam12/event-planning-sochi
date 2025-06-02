@@ -91,7 +91,7 @@ const Services = () => {
             "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=400&h=300&fit=crop",
         },
         {
-          name: "Полимерная глина",
+          name: "Изделия из полимерной глины",
           price: 7500,
           image:
             "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=400&h=300&fit=crop",

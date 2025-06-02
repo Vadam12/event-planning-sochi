@@ -5,12 +5,6 @@ const ChildrenGallery = () => {
 
   const images = [
     {
-      id: 1,
-      src: "https://cdn.poehali.dev/files/1451ed0d-1449-4ac0-84ff-6868fc81ceb0.jpg",
-      alt: "Праздничное веселье с шариками и конфетти",
-      title: "Взрыв эмоций и радости",
-    },
-    {
       id: 2,
       src: "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=500&h=400&fit=crop",
       alt: "Дети с разноцветными шариками",
